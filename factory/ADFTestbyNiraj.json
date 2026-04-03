@@ -1,5 +1,13 @@
 {
 	"name": "ADFTestbyNiraj",
+	"properties": {
+		"globalParameters": {
+			"url": {
+				"type": "string",
+				"value": "er"
+			}
+		}
+	},
 	"location": "eastasia",
 	"identity": {
 		"type": "SystemAssigned",
