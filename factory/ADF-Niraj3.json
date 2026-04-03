@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Niraj3",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49dd36e1-c419-4474-8730-6db80600fea6",
+		"tenantId": "0178f283-b4e8-457c-b255-e0a962559924"
+	}
+}
